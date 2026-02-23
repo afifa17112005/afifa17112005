@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" width="95%" />
-</p>
-
----
-
 ## Hi there, I'm Afifa 👋🌸
 
 I’m a Computer Science Engineering student passionate about building intelligent and impactful technology.  
@@ -38,41 +32,11 @@ Currently exploring Machine Learning, AI tools, and modern full-stack developmen
 
 ## 💗 Tech Stack
 
-### 👩‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,go" />
+<p align="center">
+  <img src="assets/techstack.png" alt="Tech Stack" width="90%" />
 </p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
-</p>
-
-### 🧠 AI / ML / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Machine Learning  
-- Artificial Intelligence  
-- Google Vertex AI  
-- Looker  
-- REST APIs  
-
-### 🎨 Design & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,github" />
-</p>
-
-- ChatGPT  
-- Antigravity  
- 
 
 ---
-
-
-
-
 
 ## 🌸 Current Focus
 
