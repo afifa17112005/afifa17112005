@@ -1,41 +1,76 @@
-<!-- ===== Banner ===== -->
+<!-- 🌸 Elegant Pink Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FADADD,50:F8C8DC,100:F4A6B9&text=Afifa%20A&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=8E004D&animation=fadeIn" />
 </p>
-
----
-
-## Hi, I'm Afifa 👋
-
-AI & Machine Learning Enthusiast  
-Full Stack Developer in Progress  
-Focused on building intelligent and scalable systems.
-
----
-
-## 💻 Tech Stack
-
-The technologies I work with:
 
 <p align="center">
- <p align="center">
-  <img src= <img width="647" height="246" alt="80926acd-3133-4a3e-ad88-a6f4e19d594c" src="https://github.com/user-attachments/assets/de5e11cc-7a0b-4948-a667-3bf1c8a25190" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Explorer;Full+Stack+Learner;Creative+Problem+Solver;Building+with+Vision+%F0%9F%8C%B8" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering Student  
-- 🤖 Exploring Artificial Intelligence & Machine Learning  
-- 🌐 Building modern web applications  
-- 📊 Interested in data-driven systems  
-- 🌱 Continuously improving problem-solving skills  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" width="95%" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## Hi there, I'm Afifa 👋🌸
+
+I’m a Computer Science Engineering student passionate about building intelligent and impactful technology.  
+
+I enjoy combining creativity with logic — from frontend design to AI systems.
+
+Currently exploring Machine Learning, AI tools, and modern full-stack development.
+
+---
+
+## 🌷 About Me
+
+- 🎓 CSE Student  
+- 🤖 Interested in AI & Machine Learning  
+- 💻 Exploring Full Stack Development  
+- 🎨 Love working with UI/UX tools like Figma  
+- 📊 Interested in data-driven decision systems  
+- 🌱 Always learning and improving  
+
+---
+
+## 💗 Tech Stack
+
+### 👩‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,go" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### 🧠 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Machine Learning  
+- Artificial Intelligence  
+- Google Vertex AI  
+- Looker  
+- REST APIs  
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,github" />
+</p>
+
+- ChatGPT  
+- Antigravity  
+- Nose  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=rose_pine&hide_border=true" />
@@ -48,16 +83,16 @@ The technologies I work with:
 
 ---
 
-## 🌸 Currently Exploring
+## 🌸 Current Focus
 
-- Advanced Machine Learning concepts  
-- Backend development & REST APIs  
-- Scalable system design  
-- Cloud tools like Google Vertex  
+- Building AI-based solutions  
+- Improving backend logic  
+- Learning scalable system design  
+- Strengthening communication & leadership  
 
 ---
 
-## 🌐 Connect With Me
+## 🌷 Connect With Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK">
@@ -71,5 +106,9 @@ The technologies I work with:
 ---
 
 <p align="center">
-  Consistency builds mastery.
+  🌸 “Consistency builds mastery.”
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F4A6B9,50:F8C8DC,100:FADADD&section=footer"/>
 </p>
