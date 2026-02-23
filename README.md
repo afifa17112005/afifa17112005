@@ -70,18 +70,9 @@ Currently exploring Machine Learning, AI tools, and modern full-stack developmen
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=rose_pine&hide_border=true" />
-</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
 
----
 
 ## 🌸 Current Focus
 
