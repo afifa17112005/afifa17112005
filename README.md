@@ -19,7 +19,7 @@ The technologies I work with:
 
 <p align="center">
  <p align="center">
-  <img src="<img width="647" height="246" alt="80926acd-3133-4a3e-ad88-a6f4e19d594c" src="https://github.com/user-attachments/assets/de5e11cc-7a0b-4948-a667-3bf1c8a25190" />" width="100%" />
+  <img src="<img width="647" height="246" alt="80926acd-3133-4a3e-ad88-a6f4e19d594c" src="https://github.com/user-attachments/assets/de5e11cc-7a0b-4948-a667-3bf1c8a25190" />" 
 </p>
 </p>
 
