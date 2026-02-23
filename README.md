@@ -66,7 +66,7 @@ Currently exploring Machine Learning, AI tools, and modern full-stack developmen
 
 - ChatGPT  
 - Antigravity  
-- Nose  
+ 
 
 ---
 
