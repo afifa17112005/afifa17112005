@@ -18,8 +18,9 @@ Focused on building intelligent and scalable systems.
 The technologies I work with:
 
 <p align="center">
-  <img src= <img width="647" height="246" alt="80926acd-3133-4a3e-ad88-a6f4e19d594c" src="https://github.com/user-attachments/assets/1052eb82-be39-46b8-9c78-df5e039c5bfc" />
- width="90%" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" width="100%" />
+</p>
 </p>
 
 ---
