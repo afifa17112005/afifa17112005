@@ -50,7 +50,7 @@ Currently exploring Machine Learning, AI tools, and modern full-stack developmen
 ## 🌷 Connect With Me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/afifa-a-7788362a7/)">
+  <a href="https://www.linkedin.com/in/afifa-a-7788362a7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aneesafifa17@gmail.com">
