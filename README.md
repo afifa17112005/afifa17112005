@@ -1,23 +1,76 @@
-<!-- 🌸 Pink Gradient Header -->
+<!-- 🌸 Elegant Pink Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FADADD,50:F8C8DC,100:F4A6B9&text=Afifa%20A&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=8E004D&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FADADD,50:F8C8DC,100:F4A6B9&text=Afifa%20A&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=8E004D&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&center=true&vCenter=true&width=650&lines=AI+Explorer+🤖;Strategic+Thinker+📊;Creative+Tech+Mind+💻;Growing+Every+Day+🌷" />
-</p>
-
----
-
-# 🌸 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=rose_pine&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Explorer;Full+Stack+Learner;Creative+Problem+Solver;Building+with+Vision+%F0%9F%8C%B8" />
 </p>
 
 ---
 
-## 💗 GitHub Metrics Overview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/banner.png" width="95%" />
+</p>
+
+---
+
+## Hi there, I'm Afifa 👋🌸
+
+I’m a Computer Science Engineering student passionate about building intelligent and impactful technology.  
+
+I enjoy combining creativity with logic — from frontend design to AI systems.
+
+Currently exploring Machine Learning, AI tools, and modern full-stack development.
+
+---
+
+## 🌷 About Me
+
+- 🎓 CSE Student  
+- 🤖 Interested in AI & Machine Learning  
+- 💻 Exploring Full Stack Development  
+- 🎨 Love working with UI/UX tools like Figma  
+- 📊 Interested in data-driven decision systems  
+- 🌱 Always learning and improving  
+
+---
+
+## 💗 Tech Stack
+
+### 👩‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,go" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### 🧠 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Machine Learning  
+- Artificial Intelligence  
+- Google Vertex AI  
+- Looker  
+- REST APIs  
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,github" />
+</p>
+
+- ChatGPT  
+- Antigravity  
+- Nose  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=rose_pine&hide_border=true" />
@@ -30,69 +83,20 @@
 
 ---
 
-## 🌷 Contribution Activity
+## 🌸 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOURUSERNAME&theme=rose_pine" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOURUSERNAME&theme=rose_pine" />
-</p>
+- Building AI-based solutions  
+- Improving backend logic  
+- Learning scalable system design  
+- Strengthening communication & leadership  
 
 ---
 
-## 🌸 About Me
-
-```yaml
-Name: Afifa A
-Field: Computer Science Engineering
-Focus:
-  - Artificial Intelligence
-  - Emerging Technology
-  - Strategic Thinking
-Strengths:
-  - Organization
-  - Communication
-  - Consistency
-  - Long-Term Vision
-Goal: Build impactful and meaningful technology
-```
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,github,linux" />
-</p>
-
----
-
-## 💗 Pink Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Enthusiast-E75480?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Growth-F8BBD0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vision-Impact-F48FB1?style=for-the-badge" />
-</p>
-
----
-
-## 🌷 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=E75480&style=flat" />
-</p>
-
----
-
-## 💌 Connect With Me
+## 🌷 Connect With Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E91E63?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -102,7 +106,7 @@ Goal: Build impactful and meaningful technology
 ---
 
 <p align="center">
-  🌸 “Soft energy. Strong growth.”
+  🌸 “Consistency builds mastery.”
 </p>
 
 <p align="center">
