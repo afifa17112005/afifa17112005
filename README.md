@@ -33,7 +33,7 @@ Currently exploring Machine Learning, AI tools, and modern full-stack developmen
 ## 💗 Tech Stack
 
 <p align="center">
-  <img src="techstack.png" alt="Tech Stack" width="90%" />
+  <img src="techstack.jpg" alt="Tech Stack" width="90%" />
 </p>
 
 ---
