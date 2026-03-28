@@ -166,13 +166,21 @@ class Afifa:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afifa17112005&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=FFF0F5&title_color=8E004D&icon_color=E75480&text_color=C2185B" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afifa17112005&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifa17112005&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=8E004D&text_color=C2185B&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifa17112005&layout=compact&theme=rose_pine&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=afifa17112005&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=8E004D&sideLabels=C2185B&dates=E75480&sideNums=8E004D&currStreakNum=8E004D" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=afifa17112005&theme=rose-pine&hide_border=true&ring=E75480&fire=C2185B&currStreakLabel=8E004D" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afifa17112005&theme=algolia&no-frame=true&column=6&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afifa17112005&bg_color=FFF0F5&color=8E004D&line=E75480&point=C2185B&hide_border=true" width="95%"/>
 </p>
 
 ---
