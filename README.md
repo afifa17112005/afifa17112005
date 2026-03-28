@@ -1,196 +1,208 @@
-<div align="center">
+<!-- 🌸 Elegant Pink Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FADADD,50:F8C8DC,100:F4A6B9&text=Afifa%20A&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=8E004D&desc=Product%20%7C%20ML%20%7C%20Full%20Stack&descAlign=50&descAlignY=60&descSize=18&descFontColor=C2185B&animation=fadeIn" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Afifa%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=68&desc=Product%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=85&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=E75480&center=true&vCenter=true&width=700&size=20&pause=1000&lines=AI+%7C+ML+Explorer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Product+Thinker+%7C+Market+Researcher+%F0%9F%93%8A;Building+with+Vision+%F0%9F%8C%B8;AWS+Certified+%7C+Google+Cloud+Champion+%E2%98%81%EF%B8%8F" />
+</p>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+things+that+matter+%F0%9F%9A%80;Turning+ideas+into+working+POCs+%E2%9A%A1;CS+%40+Saveetha+%7C+AWS+Certified+%E2%98%81%EF%B8%8F;Product+%7C+ML+%7C+Design+%7C+Strategy+%F0%9F%8E%AF)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afifa17112005&color=E75480&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <a href="https://afifa-portfolio-vifl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-F48FB1?style=flat-square&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/afifa-a-7788362a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-E75480?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-<img align="right" alt="coding gif" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+## Hi there, I'm Afifa 👋🌸
 
-### 🌸 About Me
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
+
+I'm a Computer Science Engineering student passionate about building intelligent and impactful technology. I enjoy combining creativity with logic — from frontend design to AI systems.
+
+I don't just write code — I think about **why it matters** and **who it's for.** 💗
 
 ```python
 class Afifa:
-    def __init__(self):
-        self.name       = "Afifa A"
-        self.role       = "Aspiring Product Intern & ML Engineer"
-        self.university = "Saveetha Engineering College 🎓"
-        self.cgpa       = 8.46
-        self.location   = "Chennai, India 🌏"
-        self.passion    = ["Product Thinking", "ML", "UI/UX", "Market Research"]
-        self.superpower = "Turning caffeine into code ☕ → 💻"
-
-    def current_focus(self):
-        return [
-            "🎯 Applying to top product & ML internships",
-            "🌱 Learning advanced LLM & AI product workflows",
-            "🏗️  Building impactful full-stack projects",
-            "📊 Deepening business analytics skills",
-        ]
-
-    def fun_fact(self):
-        return "I did market research for my dad's AC & TV store 🏪 — and that's legit product work! 😄"
-
-me = Afifa()
+    university = "Saveetha Engineering College 🎓"
+    cgpa       = 8.46
+    location   = "Chennai, India 🌏"
+    passion    = ["Product Thinking 📦", "ML 🤖", "UI/UX 🎨", "Analytics 📊"]
+    fun_fact   = "I did real market research for my dad's AC & TV store 🏪 — legit product work! 😄"
+    goal       = "Building things that matter, for people who matter 🌸"
 ```
 
 <br clear="right"/>
 
 ---
 
-### 💫 My Skill Universe
+## 🌷 About Me
 
-<div align="center">
+- 🎓 **CSE Student** @ Saveetha Engineering College — CGPA **8.46**
+- 🤖 Passionate about **AI, Machine Learning & LLM experimentation**
+- 💻 Building full-stack products with **real product thinking**
+- 🎨 UI/UX design with **Figma, Canva & Google Stitch**
+- 📊 Love turning raw data into **executive-ready insights**
+- 🏆 **Top 1,000 / 100,000+** in Amazon ML Challenge
+- ☁️ **AWS Certified** | **Google Cloud Champion Tier 2025**
+- 🌱 Always learning, always shipping 🚀
+
+---
+
+## 💗 Tech Stack
 
 **👩‍💻 Languages**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD6E0?style=for-the-badge&logo=python&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD6E0?style=for-the-badge&logo=javascript&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Java-FFD6E0?style=for-the-badge&logo=openjdk&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/SQL-FFD6E0?style=for-the-badge&logo=mysql&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/HTML5-FFD6E0?style=for-the-badge&logo=html5&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/CSS3-FFD6E0?style=for-the-badge&logo=css3&logoColor=8E004D"/>
+</p>
 
-**🎨 Design & Prototyping**
+**🎨 Design & UI/UX**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Google Stitch](https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F8C8DC?style=for-the-badge&logo=figma&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Canva-F8C8DC?style=for-the-badge&logo=canva&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Google%20Stitch-F8C8DC?style=for-the-badge&logo=google&logoColor=8E004D"/>
+</p>
 
 **🤖 AI / ML**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-FADADD?style=for-the-badge&logo=scikit-learn&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Pandas-FADADD?style=for-the-badge&logo=pandas&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/NumPy-FADADD?style=for-the-badge&logo=numpy&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT-FADADD?style=for-the-badge&logo=openai&logoColor=8E004D"/>
+</p>
 
-**🔧 Tools & Platforms**
+**🔧 Tools & Cloud**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| | Project | About | Stack |
-|---|---|---|---|
-| 🏏 | **[IPL Win Predictor](#)** | Full-stack ML app predicting match outcomes with real-time REST API | `Python` `JavaScript` `ML` `Figma` |
-| ❤️ | **[Heart Disease Predictor](#)** | ML model with feature engineering to predict health risk | `Python` `scikit-learn` `Data Analysis` |
-| 🚌 | **[Transport Tracker](#)** | GPS-based real-time bus tracking with live location updates | `Node.js` `REST API` `Postman` |
-| 🌐 | **[3D Portfolio](https://afifa-portfolio-vifl.vercel.app/)** | Interactive 3D personal portfolio — live now! | `HTML` `CSS` `JS` `Canva` |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-FFD6E0?style=for-the-badge&logo=node.js&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Postman-FFD6E0?style=for-the-badge&logo=postman&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/AWS-FFD6E0?style=for-the-badge&logo=amazon-aws&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Git-FFD6E0?style=for-the-badge&logo=git&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FFD6E0?style=for-the-badge&logo=postman&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/Swagger-FFD6E0?style=for-the-badge&logo=swagger&logoColor=8E004D"/>
+</p>
 
 ---
 
-### 💼 Experience Timeline
+## 🚀 Featured Projects
+
+<p align="center">
+
+| 🌸 | Project | What it does | Stack |
+|:---:|---|---|---|
+| 🏏 | **[IPL Win Predictor](#)** | ML app predicting match outcomes with real-time REST API | `Python` `JS` `ML` `Figma` |
+| ❤️ | **[Heart Disease Predictor](#)** | Predicts health risk using feature engineering & data analysis | `Python` `scikit-learn` |
+| 🚌 | **[Transport Tracker](#)** | Real-time GPS bus tracking with live location updates | `Node.js` `REST API` `Postman` |
+| 🌐 | **[3D Portfolio](https://afifa-portfolio-vifl.vercel.app/)** | My interactive 3D personal portfolio — live now! | `HTML` `CSS` `JS` `Canva` |
+
+</p>
+
+---
+
+## 💼 Experience
 
 ```
-2025 Nov ──► Infosys Springboard         🤖  ML Intern (Virtual)
-              └─ Predictive modelling · Data pipelines · Executive reporting
+🌸 Nov 2025 ──► Infosys Springboard        🤖  Machine Learning Intern (Virtual)
+                  └─ Predictive modelling · Data pipelines · Executive reporting
 
-2025 Jan ──► Arjun Vision Tech           🧠  AI Intern
-              └─ AI product prototyping · Figma mockups · API integration
+🌸 Jan 2025 ──► Arjun Vision Tech          🧠  AI Intern
+                  └─ Product prototyping · Figma mockups · API integration · Research
 
-2024     ──► Mynaseva Foundation | AICTE  📢  Digital Marketing Intern
-              └─ Market research · Campaign analytics · Consumer behaviour
+🌸 2024     ──► Mynaseva Foundation | AICTE 📢  Digital Marketing Intern
+                  └─ Market research · Campaign analytics · Consumer behaviour
 ```
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-<div align="center">
+<p align="center">
 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 🥇 Amazon ML Challenge | Top **1,000 out of 100,000+** participants |
-| 🏆 Google Cloud Arcade | **Champion Tier** — Cohort 2, 2025 |
-| ☁️ Cloud Skill Badges | **20+** Google Cloud badges earned |
-| ⚡ HackFest | 24-hour rapid prototyping challenge |
+| 🏅 | Achievement |
+|:---:|---|
+| 🥇 | **Top 1,000 / 100,000+** — Amazon Machine Learning Challenge |
+| 🏆 | **Champion Tier** — Google Cloud Arcade Cohort-2, 2025 |
+| ☁️ | **20+ Google Cloud Skill Badges** earned |
+| ⚡ | **24-Hour HackFest** — rapid product delivery under pressure |
 
-<br/>
-
-![AWS](https://img.shields.io/badge/✅_AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AI](https://img.shields.io/badge/✅_Intro_to_AI-0066CC?style=flat-square&logoColor=white)
-![DL](https://img.shields.io/badge/✅_Deep_Learning_for_Devs-0066CC?style=flat-square&logoColor=white)
-![GPT](https://img.shields.io/badge/✅_OpenAI_GPT_Models-412991?style=flat-square&logo=openai&logoColor=white)
-![CV](https://img.shields.io/badge/✅_Computer_Vision_101-0066CC?style=flat-square&logoColor=white)
-![Wipro](https://img.shields.io/badge/✅_Wipro_FutureSkills_Prime-7B2D8B?style=flat-square&logoColor=white)
-
-</div>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📜 Certifications
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=afifa17112005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_radius=12" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifa17112005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=12" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afifa17112005&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&border_radius=12" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/✅_AWS_Cloud_Practitioner-FADADD?style=flat-square&logo=amazon-aws&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/✅_Intro_to_AI-F8C8DC?style=flat-square&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/✅_Deep_Learning_for_Devs-F8C8DC?style=flat-square&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/✅_OpenAI_GPT_Models-FADADD?style=flat-square&logo=openai&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/✅_Computer_Vision_101-F8C8DC?style=flat-square&logoColor=8E004D"/>
+  <img src="https://img.shields.io/badge/✅_Wipro_FutureSkills_Prime-FFD6E0?style=flat-square&logoColor=8E004D"/>
+</p>
 
 ---
 
-### 🎯 Open To Opportunities
+## 🌸 Current Focus
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║   💜  Currently seeking internships in:              ║
-║                                                      ║
-║   📦  Product Management / Product Analyst           ║
-║   🤖  Machine Learning / AI Engineering              ║
-║   💻  Full Stack Development                         ║
-║   📊  Business Analytics / Data Analytics            ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
+- 🎯 Applying to **Product & ML internships** at top companies
+- 🤖 Experimenting with **LLM APIs & AI product workflows**
+- 🏗️ Building impactful **full-stack & ML projects**
+- 📊 Strengthening **business analytics & product strategy** skills
+- 🌱 Committing to GitHub every single day 💪
 
 ---
 
-### 🤝 Let's Connect!
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afifa17112005&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=8E004D&icon_color=E75480&text_color=C2185B&border_radius=12" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifa17112005&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=8E004D&text_color=C2185B&border_radius=12" height="160"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now!-A855F7?style=for-the-badge)](https://afifa-portfolio-vifl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifa-a-7788362a7/)
-[![Email](https://img.shields.io/badge/Gmail-Say_Hi!_👋-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesafifa17@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afifa17112005)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifa17112005&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=8E004D&sideLabels=C2185B&dates=E75480&border_radius=12" height="160"/>
+</p>
 
-<br/>
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=afifa17112005&color=A855F7&style=for-the-badge&label=Profile+Views)
+## 🌷 Connect With Me
 
-<br/>
+<p align="center">
+  <a href="https://afifa-portfolio-vifl.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-E75480?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/afifa-a-7788362a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:aneesafifa17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_Hi!-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/afifa17112005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-F8C8DC?style=for-the-badge&logo=github&logoColor=8E004D" />
+  </a>
+</p>
 
-> *✨ "I don't just write code — I think about why it matters and who it's for." ✨*
+---
 
-<br/>
+<p align="center">
+  🌸 <em>"I don't just write code — I think about why it matters and who it's for."</em> 🌸
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F4A6B9,50:F8C8DC,100:FADADD&section=footer"/>
+</p>
