@@ -166,13 +166,13 @@ class Afifa:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afifa17112005&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F5&title_color=8E004D&icon_color=E75480&text_color=C2185B&border_radius=12" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifa17112005&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=8E004D&text_color=C2185B&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afifa17112005&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=FFF0F5&title_color=8E004D&icon_color=E75480&text_color=C2185B" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifa17112005&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=8E004D&text_color=C2185B&langs_count=6" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifa17112005&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=8E004D&sideLabels=C2185B&dates=E75480&border_radius=12" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=afifa17112005&hide_border=true&background=FFF0F5&ring=E75480&fire=C2185B&currStreakLabel=8E004D&sideLabels=C2185B&dates=E75480&sideNums=8E004D&currStreakNum=8E004D" height="165"/>
 </p>
 
 ---
